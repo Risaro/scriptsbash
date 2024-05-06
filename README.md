@@ -1,0 +1,2 @@
+# scriptsbash
+Скрпитики для bash
